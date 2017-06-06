@@ -4,8 +4,8 @@
 */
 
 body {
-	margin: 0px;
-	padding: 0px;
+	
+	
 	color: #666;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 14px;
@@ -13,7 +13,13 @@ body {
 	background-color: #e2d8bd;
 	background-image: url(images/tooplate_body.jpg);
 	background-repeat: repeat;
-}
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    max-width: 300px;
+    height: 300px;
+    border: 1px solid black;
+} 
 
 a, a:link, a:visited { color: #de6d19; text-decoration: none; }
 a:hover { text-decoration: underline; }
