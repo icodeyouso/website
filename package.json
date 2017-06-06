@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/icodeyouso/website/issues"
   },
-  "homepage": "https://github.com/icodeyouso/website#readme"
+  "homepage": "https://github.com/icodeyouso/website#readme",
+  "devDependencies": {
+    "bulma": "^0.4.2"
+  }
 }
